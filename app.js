@@ -61,7 +61,7 @@ function login(_req, res) {
 
 /**
  * Handle the /logout route.
- * @param {express.Request} _req The Request object.
+ * @param {express.Request} req The Request object.
  * @param {express.Response} res The Response object.
  */
 async function logout(req, res) {
